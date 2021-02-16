@@ -1,0 +1,1 @@
+Arrays son contenedores donde podemos almacenar cualquier tipo de datos. Nos permiten agregar, eliminar y leer los contenidos de dichos contenedores
