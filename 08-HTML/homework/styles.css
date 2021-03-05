@@ -1,0 +1,7 @@
+#thirdDiv{height: 600; width: 500; color: red;padding: 50px; border: 10px red double}
+#spanId{color: blue;font-size: 18px;margin: 50px;}
+div {
+    background-image: url('http://getwallpapers.com/wallpaper/full/f/8/6/995780-light-bulb-wallpapers-1920x1200-hd-1080p.jpg');
+    background-position: center;
+  }
+.centrar {text-align: center;}
